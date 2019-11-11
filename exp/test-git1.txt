@@ -1,1 +1,1 @@
- from git-test2 =)  from base proj
+ from git-test2 =)  from base proj =)

@@ -1,1 +1,1 @@
- from git-test2 =)  new update
+ from git-test2 =)  from base proj
